@@ -1,0 +1,125 @@
+{
+  "episode": "E001-wait",
+  "version": "0.1",
+  "status": "text-baseline",
+  "duration": 30,
+  "fps": 24,
+  "shots": [
+    {
+      "id": "S01",
+      "start": 0,
+      "end": 4,
+      "composition": "35mm 中远景",
+      "action": "狐狸左入，右侧兔子拾倒牌；狐狸将坐未坐",
+      "dialogue": "Rabbit: Wait!",
+      "constraint": "纸袋左臂；臀部不碰座面"
+    },
+    {
+      "id": "S02",
+      "start": 4,
+      "end": 8,
+      "composition": "50mm 双人中景",
+      "action": "兔子张掌阻拦，指向倒牌；狐狸困惑，兔子转去拾牌",
+      "dialogue": "Rabbit: Not here!",
+      "constraint": "不换角色左右关系"
+    },
+    {
+      "id": "S03",
+      "start": 8,
+      "end": 12,
+      "composition": "65mm 中近景",
+      "action": "狐狸站直调整袋子，右掌无意扶湿漆椅背，感到黏后抽开",
+      "dialogue": "无",
+      "constraint": "接触后才有绿漆"
+    },
+    {
+      "id": "S04",
+      "start": 12,
+      "end": 15,
+      "composition": "85mm 手部特写",
+      "action": "右手小块绿漆；狐狸停手，避免擦到裤子",
+      "dialogue": "Fox: Oh!",
+      "constraint": "只掌缘沾漆；裤子不脏"
+    },
+    {
+      "id": "S05",
+      "start": 15,
+      "end": 19,
+      "composition": "50mm 双人中景",
+      "action": "兔子竖好图形警示牌，指椅子，递手帕；狐狸恍然",
+      "dialogue": "Rabbit: Wet paint.",
+      "constraint": "牌来自地面；手帕来自包"
+    },
+    {
+      "id": "S06",
+      "start": 19,
+      "end": 23,
+      "composition": "40mm 中景",
+      "action": "狐狸擦手；兔子走向已在开场交代的干燥低台阶，示意空位",
+      "dialogue": "Rabbit: Sit here.",
+      "constraint": "取消坐垫，减少道具负担"
+    },
+    {
+      "id": "S07",
+      "start": 23,
+      "end": 27,
+      "composition": "50mm 双人近景",
+      "action": "狐狸收好手帕、把袋子放腿上坐下，肩膀放松看向兔子",
+      "dialogue": "Fox: Thank you.",
+      "constraint": "擦手动作已结束"
+    },
+    {
+      "id": "S08",
+      "start": 27,
+      "end": 30,
+      "composition": "40mm 中远景",
+      "action": "兔子坐旁边，狐狸主动挪出一点位置，两人微笑，后方警示牌直立",
+      "dialogue": "无",
+      "constraint": "不用分享食物；微笑与让位收尾"
+    }
+  ],
+  "assets": [
+    {
+      "id": "CHAR_FOX",
+      "status": "planned",
+      "path": null
+    },
+    {
+      "id": "CHAR_RABBIT",
+      "status": "planned",
+      "path": null
+    },
+    {
+      "id": "ENV_PARK",
+      "status": "planned",
+      "path": null
+    },
+    {
+      "id": "PROP_BENCH",
+      "status": "planned",
+      "path": null
+    },
+    {
+      "id": "PROP_SIGN",
+      "status": "planned",
+      "path": null
+    },
+    {
+      "id": "PROP_CLOTH",
+      "status": "planned",
+      "path": null
+    },
+    {
+      "id": "STORYBOARD_A",
+      "status": "planned",
+      "path": null
+    },
+    {
+      "id": "STORYBOARD_B",
+      "status": "planned",
+      "path": null
+    }
+  ],
+  "brand": "paused",
+  "app": "paused"
+}

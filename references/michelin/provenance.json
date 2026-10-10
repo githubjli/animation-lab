@@ -1,0 +1,32 @@
+[
+  {
+    "source": "C:\\Users\\76797\\Desktop\\chatgpt\\aitools\\aitools\\projects\\ai-film-seedance-filmera\\michelin-case\\assets\\storyboard\\storyboard.png",
+    "copy": "references\\michelin\\storyboard.png",
+    "sha256": "5c1d3b38c3db36a9997d834df4fc85f72600bf4cfbbd74a982bc62a7bf887b94"
+  },
+  {
+    "source": "C:\\Users\\76797\\Desktop\\chatgpt\\aitools\\aitools\\projects\\ai-film-seedance-filmera\\michelin-case\\assets\\storyboard\\prompt.txt",
+    "copy": "references\\michelin\\prompt.txt",
+    "sha256": "3e415d96e00068118470cf28c5674f4d044e0bec5383677c4f70922412df4383"
+  },
+  {
+    "source": "C:\\Users\\76797\\Desktop\\chatgpt\\aitools\\aitools\\projects\\ai-film-seedance-filmera\\michelin-case\\seeddance\\54a1534e-b659-4adf-a62b-f8c83d976ec7.mp4",
+    "copy": "references\\michelin\\observed-output.mp4",
+    "sha256": "a3ad082660f3e48a0983f1b48352a57d8ff8bf198422bcfda3a5ad393a9c67ca"
+  },
+  {
+    "source": "C:\\Users\\76797\\Desktop\\chatgpt\\aitools\\aitools\\projects\\ai-film-seedance-filmera\\michelin-case\\master-prompt-FINAL.md",
+    "copy": "references\\michelin\\alternative-long-prompt.md",
+    "sha256": "afc7500ea8aee5a0c12fe748b26ee2fcb6746a825f5b7c5ce72f56a70109148e"
+  },
+  {
+    "source": "C:\\Users\\76797\\Desktop\\chatgpt\\aitools\\aitools\\projects\\ai-film-seedance-filmera\\michelin-case\\assets\\README.md",
+    "copy": "references\\michelin\\source-assets-readme.md",
+    "sha256": "ef8bd5d62dec4401e889e401f0eaf8b6426336ae7871ae61060b4a8654c7733d"
+  },
+  {
+    "source": "C:\\Users\\76797\\Desktop\\chatgpt\\aitools\\aitools\\projects\\ai-film-seedance-filmera\\michelin-case\\source-article.md",
+    "copy": "references\\michelin\\source-article.md",
+    "sha256": "b1c509755fd4231f5d33720ccf1e217cfd3ed6e9289e4e02f45d7b4bb729ca9e"
+  }
+]
