@@ -19,3 +19,7 @@
 ## 关闭窗口后的恢复入口
 先读 [START-HERE.md](START-HERE.md)，再读 [可执行质量标准](knowledge/QUALITY-STANDARD.md)。其中保存当前进度、证据边界和下一步执行顺序。
 
+
+## 新增动画研究参考（2026-11-13）
+
+- [案例033：双集角色喜剧与20格故事看板](references/case033/v001/README.md)；[对首集的适用与限制](knowledge/experiments/CASE033-animation-reference-v001.md)。已同步实际参考文件，制作流程为推断，不代表新动画已生成。

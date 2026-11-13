@@ -50,3 +50,7 @@ C:/Users/76797/Desktop/chatgpt/aivideo/ComfyUI_windows_portable/python_embeded/p
 ## 可直接粘贴给新窗口
 请在 C:/Users/76797/Desktop/chatgpt/animation-lab 继续。先读取 AGENTS.md 和 START-HERE.md，再阅读质量标准与首集镜头表，检查实际文件。当前只有文字与案例档案完成，新视觉素材和视频尚未生成。保持30秒8镜头制作范围，暂缓品牌与App；先核对动作节拍，再准备视觉物料，不跳过故事板直接生成成片。
 
+
+## 参考同步里程碑（2026-11-13）
+
+已按用户明确要求接收cinematic-lab案例033 v001，见[交接包](references/case033/v001/README.md)与[应用说明](knowledge/experiments/CASE033-animation-reference-v001.md)。包含两份原片、关键帧、20格看板及制作研究，文件复制经SHA-256校验。源动画工具未知，连续音画未审；未改E001、未生成新资产、未开展付费提交。后续可检查知情顺序、角色自主选择与反应留白，再按现有门禁推进。
