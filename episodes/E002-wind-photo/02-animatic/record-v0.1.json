@@ -1,0 +1,38 @@
+{
+  "status": "rough-animatic-unreviewed",
+  "duration": 45,
+  "output_fps": 24,
+  "unique_pose_frames_per_second": 12,
+  "resolution": [
+    960,
+    540
+  ],
+  "method": "procedural Pillow shapes; original synthetic temporary sound; FFmpeg encoding",
+  "model": null,
+  "reference_images_used": [],
+  "source_beats": "../BEATS-v0.1.md",
+  "limitations": [
+    "not final character assets",
+    "no motion or visual quality approval",
+    "reference continuous review remains pending",
+    "two photo inserts are illustrative reconstruction"
+  ],
+  "files": [
+    {
+      "path": "build_v01.py",
+      "sha256": "07a3f0844f2839c6e5846544eba10211590b2476a2e05cc41dfe70b69bb04344"
+    },
+    {
+      "path": "temp-sound-v0.1.wav",
+      "sha256": "947e9b62df7228657d76eed4b5c0e4fd63e3336a99e31fbc37c0923cad101c03"
+    },
+    {
+      "path": "animatic-v0.1.mp4",
+      "sha256": "51b1e584f5fc71ed4bd47626f6bb432aa7b6646fe5945c9b84c1153fca76fbab"
+    },
+    {
+      "path": "contact-sheet-v0.1.jpg",
+      "sha256": "dd8b58883931584a4a50b3b194b153fdcbc623681dce2a10eeabce0f4c10532d"
+    }
+  ]
+}
